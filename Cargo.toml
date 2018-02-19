@@ -1,0 +1,13 @@
+[package]
+name = "oc01"
+version = "1.0.0"
+authors = ["DinossoLate <ignalelop@alum.us.es>"]
+
+[dependencies]
+
+hyper = "0.11"
+futures = "0.1.14"
+log = "0.4.1"
+serde = "1.0"
+serde_derive = "1.0"
+serde_json = "1.0"

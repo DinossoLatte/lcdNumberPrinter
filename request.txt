@@ -1,0 +1,6 @@
+The request should be made with the following pattern:
+
+{
+    "t": 4, "//": "This will define the size of the printed numbers",
+    "n": 1234, "//": "This will declare the numbers to be printed"
+}
